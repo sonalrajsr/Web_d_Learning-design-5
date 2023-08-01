@@ -1,4 +1,5 @@
 # Web_d_Learning-design-5
+Check through link ➡️ https://sonalrajsr.github.io/Web_d_Learning-design-5/
 This is a web-design which includes rotating navigation bar. 
 Clicking on the five dots at midle right, is made for navigation of all five different obtions.
 Requirements- HTML, JS, CSS, GSAP
